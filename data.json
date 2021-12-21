@@ -1,0 +1,2489 @@
+{
+    "rows": [
+        {
+            "000": "02218cls0 2200505   450",
+            "001": "037351214",
+            "010$a": null,
+            "011$a": "1520-8532",
+            "100$a": "19980709a19939999u  y0frey50      ba",
+            "200$a": "Journal of the Optical Society of America",
+            "200$e": null,
+            "200$h": "A",
+            "200$i": "Optics, image science, and vision",
+            "210$c": "The Society",
+            "452$x": "1084-7529",
+            "452$y": null,
+            "452$0": "037403397",
+            "530$a": "Journal of the Optical Society of America. A, Online",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.opticsinfobase.org/josaa",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1520-8532",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005633534304672",
+                    "ppn": null,
+                    "titre": "Journal of the Optical Society of America.",
+                    "titre_clef": "Journal of the Optical Society of America. A, Online",
+                    "date_pub": "1993",
+                    "portfolios": [
+                        {
+                            "pid": "53138723710004672",
+                            "collection_id": "61127922020004672",
+                            "collection_name": "OSA - Optical Society of America (revues)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 50,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "01461cls0 2200361   450",
+            "001": "040628426",
+            "010$a": null,
+            "011$a": "1067-8832",
+            "100$a": "19980721a19929999u  y0frey50      ba",
+            "200$a": "Journal of bacteriology",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "American Society for Microbiology",
+            "452$x": "0021-9193;1098-5530",
+            "452$y": null,
+            "452$0": "038733390;050927485",
+            "530$a": "Journal of bacteriology",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://jb.asm.org/archive/",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1067-8832",
+            "ID_NB_MATCH": 0,
+            "MATCHING_INFOS": [],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02297cls0 2200565   450",
+            "001": "040628957",
+            "010$a": null,
+            "011$a": "1079-7114",
+            "100$a": "19980709a19589999u  y0frey50      ba",
+            "200$a": "Physical review letters",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "American Physical Society",
+            "452$x": "0031-9007;1092-0145",
+            "452$y": null,
+            "452$0": "038771942;040630498",
+            "530$a": "Physical review letters",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://prl.aps.org",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1079-7114",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005619598404672",
+                    "ppn": null,
+                    "titre": "Physical review letters.",
+                    "titre_clef": "Physical review letters",
+                    "date_pub": "1958",
+                    "portfolios": [
+                        {
+                            "pid": "53134237920004672",
+                            "collection_id": "61127927030004672",
+                            "collection_name": "APS - American Physical Society (revues)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 50,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02594cls0 2200565   450",
+            "001": "040629899",
+            "010$a": null,
+            "011$a": "1089-7623",
+            "100$a": "19980721a19309999u  y0frey50      ba",
+            "200$a": "Review of scientific instruments",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "American Institute of Physics",
+            "452$x": "0034-6748;1527-2400",
+            "452$y": null,
+            "452$0": "038784157;058847243",
+            "530$a": "Review of scientific instruments online",
+            "856$u": "http://ojps.aip.org/rsio;http://docelec.u-bordeaux.fr/login?url=http://rsi.aip.org/",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1089-7623",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005619281604672",
+                    "ppn": null,
+                    "titre": "Review of scientific instruments online.",
+                    "titre_clef": "Review of scientific instruments online",
+                    "date_pub": "1930",
+                    "portfolios": [
+                        {
+                            "pid": "53149978260004672",
+                            "collection_id": "61127922020004672",
+                            "collection_name": "OSA - Optical Society of America (revues)"
+                        },
+                        {
+                            "pid": "53134165340004672",
+                            "collection_id": "61127927180004672",
+                            "collection_name": "AIP - American Institute of Physics (revues)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 50,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "01785cls0 2200457   450",
+            "001": "040630196",
+            "010$a": null,
+            "011$a": "1090-2449",
+            "100$a": "19980721a200 9999u  y0frey50      ba",
+            "200$a": "Experimental parasitology",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Elsevier",
+            "452$x": "0014-4894",
+            "452$y": null,
+            "452$0": "038706407",
+            "530$a": "Experimental parasitology",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.sciencedirect.com/science/journal/00144894",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1090-2449",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005618684104672",
+                    "ppn": null,
+                    "titre": "Experimental parasitology",
+                    "titre_clef": "Experimental parasitology",
+                    "date_pub": "1951",
+                    "portfolios": [
+                        {
+                            "pid": "53134030450004672",
+                            "collection_id": "61127926310004672",
+                            "collection_name": "ScienceDirect - Elsevier (revues)"
+                        },
+                        {
+                            "pid": "53134280100004672",
+                            "collection_id": "61127926280004672",
+                            "collection_name": "Elsevier  - Licence nationale (revues)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 30,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": false,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02424cls0 2200577   450",
+            "001": "040651290",
+            "010$a": null,
+            "011$a": "1520-5126",
+            "100$a": "19980709a18799999u  y0frey50      ba",
+            "200$a": "Journal of the American Chemical Society",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "American chemical society",
+            "452$x": "0002-7863;1943-2984",
+            "452$y": null,
+            "452$0": "038661748;128402075",
+            "530$a": "Journal of the American Chemical Society",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://pubs.acs.org/journal/jacsat",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1520-5126",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005619724204672",
+                    "ppn": null,
+                    "titre": "Journal of the American Chemical Society.",
+                    "titre_clef": "Journal of the American Chemical Society",
+                    "date_pub": "1879",
+                    "portfolios": [
+                        {
+                            "pid": "53134314660004672",
+                            "collection_id": "61127926880004672",
+                            "collection_name": "ACS - American Chemical Society (revues)"
+                        },
+                        {
+                            "pid": "53160364640004672",
+                            "collection_id": "61160365290004672",
+                            "collection_name": "American Chemical Society - Licence nationale (revues)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 50,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02342cls0 2200541   450",
+            "001": "048899798",
+            "010$a": null,
+            "011$a": "1468-2052",
+            "100$a": "20000228a19889999u  y0frey50      ba",
+            "200$a": "eADC. F&N",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "BMJ Publishing Group",
+            "452$x": "1359-2998",
+            "452$y": null,
+            "452$0": "03674638X",
+            "530$a": "Archives of disease in childhood. Fetal and neonatal edition",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://fn.bmj.com/content/by/year",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1468-2052",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005612820704672",
+                    "ppn": null,
+                    "titre": "Archives of disease in childhood.",
+                    "titre_clef": null,
+                    "date_pub": "1988",
+                    "portfolios": [
+                        {
+                            "pid": "53132046730004672",
+                            "collection_id": "61127939170004672",
+                            "collection_name": "Free Medical Journals"
+                        },
+                        {
+                            "pid": "53134306760004672",
+                            "collection_id": "61127926850004672",
+                            "collection_name": "BMJ - Licence nationale (revues)"
+                        },
+                        {
+                            "pid": "53139899930004672",
+                            "collection_id": "61127925590004672",
+                            "collection_name": "BMJ Journals Online"
+                        },
+                        {
+                            "pid": "53132283020004672",
+                            "collection_id": "61127939110004672",
+                            "collection_name": "Highwire Press Free"
+                        },
+                        {
+                            "pid": "53132329130004672",
+                            "collection_id": "61127938990004672",
+                            "collection_name": "PubMed Central"
+                        }
+                    ],
+                    "MATCHING_SCORE": 30,
+                    "MATCH_TITRE": false,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02014cls0 2200517   450",
+            "001": "04890001X",
+            "010$a": null,
+            "011$a": "1468-6244",
+            "100$a": "20000327a19649999u  y0frey50      ba",
+            "200$a": "eJMG",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "BMJ Publishing Group",
+            "452$x": "0022-2593",
+            "452$y": null,
+            "452$0": "038736551",
+            "530$a": "Journal of medical genetics",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://jmg.bmj.com/content/by/year",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1468-6244",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005611747504672",
+                    "ppn": null,
+                    "titre": "Journal of medical genetics :",
+                    "titre_clef": null,
+                    "date_pub": "1964",
+                    "portfolios": [
+                        {
+                            "pid": "53131698620004672",
+                            "collection_id": "61127939200004672",
+                            "collection_name": "Free E- Journals"
+                        },
+                        {
+                            "pid": "53136946820004672",
+                            "collection_id": "61127925590004672",
+                            "collection_name": "BMJ Journals Online"
+                        },
+                        {
+                            "pid": "53134306820004672",
+                            "collection_id": "61127926850004672",
+                            "collection_name": "BMJ - Licence nationale (revues)"
+                        },
+                        {
+                            "pid": "53132158720004672",
+                            "collection_id": "61127939170004672",
+                            "collection_name": "Free Medical Journals"
+                        },
+                        {
+                            "pid": "53132323610004672",
+                            "collection_id": "61127938990004672",
+                            "collection_name": "PubMed Central"
+                        },
+                        {
+                            "pid": "53132280880004672",
+                            "collection_id": "61127939110004672",
+                            "collection_name": "Highwire Press Free"
+                        }
+                    ],
+                    "MATCHING_SCORE": 30,
+                    "MATCH_TITRE": false,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "01860cls0 2200445   450",
+            "001": "048900079",
+            "010$a": null,
+            "011$a": "1469-1809",
+            "100$a": "20000327a19549999u  y0frey50      ba",
+            "200$a": "Annals of human genetics",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Cambridge University Press;Cambridge University Press;Blackwell Publ.;Wiley InterScience",
+            "452$x": "0003-4800",
+            "452$y": null,
+            "452$0": "038665182",
+            "530$a": "Annals of human genetics",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-1809",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1469-1809",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005612816204672",
+                    "ppn": null,
+                    "titre": "Annals of human genetics.",
+                    "titre_clef": "Annals of human genetics",
+                    "date_pub": "1954",
+                    "portfolios": [
+                        {
+                            "pid": "53155954610004672",
+                            "collection_id": "61155950000004672",
+                            "collection_name": "Wiley (revues)"
+                        },
+                        {
+                            "pid": "53164251800004672",
+                            "collection_id": "61163507000004672",
+                            "collection_name": "Wiley (revues)"
+                        },
+                        {
+                            "pid": "53138173500004672",
+                            "collection_id": "61127925650004672",
+                            "collection_name": "Wiley - Licence nationale (revues)"
+                        },
+                        {
+                            "pid": "53132044150004672",
+                            "collection_id": "61127939170004672",
+                            "collection_name": "Free Medical Journals"
+                        },
+                        {
+                            "pid": "53151335530004672",
+                            "collection_id": "61151339180004672",
+                            "collection_name": "Wiley (revues)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 50,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "01950cls0 2200445   450",
+            "001": "058048863",
+            "010$a": null,
+            "011$a": "1097-0010",
+            "100$a": "20010401a19509999u  y0frey50      ba",
+            "200$a": "Journal of the science of food and agriculture",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Published for SCI by John Wiley & Sons",
+            "452$x": "0022-5142",
+            "452$y": null,
+            "452$0": "038738627",
+            "530$a": "Journal of the science of food and agriculture",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0010",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1097-0010",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005619149504672",
+                    "ppn": null,
+                    "titre": "Journal of the science of food and agriculture.",
+                    "titre_clef": "Journal of the science of food and agriculture",
+                    "date_pub": "1950",
+                    "portfolios": [
+                        {
+                            "pid": "53155958140004672",
+                            "collection_id": "61155950000004672",
+                            "collection_name": "Wiley (revues)"
+                        },
+                        {
+                            "pid": "53151372730004672",
+                            "collection_id": "61151339180004672",
+                            "collection_name": "Wiley (revues)"
+                        },
+                        {
+                            "pid": "53136912880004672",
+                            "collection_id": "61127925650004672",
+                            "collection_name": "Wiley - Licence nationale (revues)"
+                        },
+                        {
+                            "pid": "53164265620004672",
+                            "collection_id": "61163507000004672",
+                            "collection_name": "Wiley (revues)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 50,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "01859cls0 2200481   450",
+            "001": "067811728",
+            "010$a": null,
+            "011$a": "1432-119X",
+            "100$a": "20020530a19979999||||0fre|50      ba",
+            "200$a": "Histochemistry and cell biology",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Springer",
+            "452$x": "0948-6143",
+            "452$y": null,
+            "452$0": "040073297",
+            "530$a": "Histochemistry and cell biology",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/content/100427/",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1432-119X",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005625752704672",
+                    "ppn": null,
+                    "titre": "Histochemistry and cell biology.",
+                    "titre_clef": null,
+                    "date_pub": "1995",
+                    "portfolios": [
+                        {
+                            "pid": "53136299010004672",
+                            "collection_id": "61127925710004672",
+                            "collection_name": "Springer Nature - Licence nationale (revues)"
+                        },
+                        {
+                            "pid": "53136259750004672",
+                            "collection_id": "61127925740004672",
+                            "collection_name": "Springer (revue)"
+                        },
+                        {
+                            "pid": "53163251280004672",
+                            "collection_id": "61163249760004672",
+                            "collection_name": "CINAHL Complete"
+                        }
+                    ],
+                    "MATCHING_SCORE": 30,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": false,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02523cls0 2200637   450",
+            "001": "111181674",
+            "010$a": null,
+            "011$a": "2102-5320",
+            "100$a": "20061207a20019999u  y0frey50      ba",
+            "200$a": "La Psychiatrie de l'enfant",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Presses Universitaires de France",
+            "452$x": "0079-726X",
+            "452$y": null,
+            "452$0": "039240622",
+            "530$a": "La Psychiatrie de l'enfant",
+            "856$u": "https://www.cairn.info/revue-la-psychiatrie-de-l-enfant.htm;http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/revue-la-psychiatrie-de-l-enfant.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "2102-5320",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005613438904672",
+                    "ppn": null,
+                    "titre": "La Psychiatrie de l'enfant.",
+                    "titre_clef": "La Psychiatrie de l'enfant",
+                    "date_pub": "1958",
+                    "portfolios": [
+                        {
+                            "pid": "53171469520004672",
+                            "collection_id": "61168693080004672",
+                            "collection_name": "CAIRN revues (Couperin)"
+                        },
+                        {
+                            "pid": "53132483190004672",
+                            "collection_id": "61127921750004672",
+                            "collection_name": "CAIRN revues"
+                        },
+                        {
+                            "pid": "53132194620004672",
+                            "collection_id": "61127939170004672",
+                            "collection_name": "Free Medical Journals"
+                        },
+                        {
+                            "pid": "53162048930004672",
+                            "collection_id": "61161736570004672",
+                            "collection_name": "BACON - Mir@bel - GLOBAL_LIBRESACCES"
+                        }
+                    ],
+                    "MATCHING_SCORE": 30,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": false,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "03361cls0 2200757   450",
+            "001": "111827698",
+            "010$a": null,
+            "011$a": "1955-2564",
+            "100$a": "20070112a20019999u  y0frey50      ba",
+            "200$a": "Actes de la recherche en sciences sociales",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Maison des sciences de l'homme",
+            "452$x": "0335-5322",
+            "452$y": null,
+            "452$0": "039525821",
+            "530$a": "Actes de la recherche en sciences sociales",
+            "856$u": "http://www.persee.fr/collection/arss;https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales.htm;https://www.persee.fr/collection/arss;https://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales.htm;http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1955-2564",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005611640504672",
+                    "ppn": null,
+                    "titre": "Actes de la recherche en sciences sociales.",
+                    "titre_clef": "Actes de la recherche en sciences sociales",
+                    "date_pub": "1975",
+                    "portfolios": [
+                        {
+                            "pid": "53132483090004672",
+                            "collection_id": "61127921750004672",
+                            "collection_name": "CAIRN revues"
+                        },
+                        {
+                            "pid": "53131687620004672",
+                            "collection_id": "61127939200004672",
+                            "collection_name": "Free E- Journals"
+                        },
+                        {
+                            "pid": "53136202060004672",
+                            "collection_id": "61127925920004672",
+                            "collection_name": "Bacon Persée Global Alljournals"
+                        },
+                        {
+                            "pid": "53161994080004672",
+                            "collection_id": "61161736570004672",
+                            "collection_name": "BACON - Mir@bel - GLOBAL_LIBRESACCES"
+                        },
+                        {
+                            "pid": "53171469290004672",
+                            "collection_id": "61168693080004672",
+                            "collection_name": "CAIRN revues (Couperin)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 30,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": false,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "04552clm0 2200721   450",
+            "001": "113099916",
+            "010$a": "3-540-29428-7;978-3-540-29428-3",
+            "011$a": null,
+            "100$a": "20070308d2006    k  y0frey50      ba",
+            "200$a": "Elektromagnetische Feldtheorie",
+            "200$e": "für Ingenieure und Physiker",
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Springer Berlin Heidelberg;Springer e-books",
+            "452$x": null,
+            "452$y": "9783540265504",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-3-540-26550-4",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "3-540-29428-7",
+            "ID_NB_MATCH": 0,
+            "MATCHING_INFOS": [],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "05162clm0 2200889   450",
+            "001": "113194188",
+            "010$a": "3-540-29711-1;978-3-540-29711-6",
+            "011$a": null,
+            "100$a": "20070313d2006    k  y0frey50      ba",
+            "200$a": "Remote sensing digital image analysis",
+            "200$e": "an introduction",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "978-3-540-25128-6",
+            "452$0": "109167481",
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-3-540-25128-6",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "3-540-29711-1",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005616262404672",
+                    "ppn": "(PPN)113194188",
+                    "titre": "Remote Sensing Digital Image Analysis",
+                    "titre_clef": null,
+                    "date_pub": "2006",
+                    "portfolios": [
+                        {
+                            "pid": "53135839360004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        },
+                        {
+                            "pid": "53133302020004672",
+                            "collection_id": "61127920070004672",
+                            "collection_name": "Springer Engineering eBooks 2006 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "01787cls0 2200421   450",
+            "001": "116254068",
+            "010$a": null,
+            "011$a": "1557-8348",
+            "100$a": "20070706b20052012u  y0frey50      ba",
+            "200$a": "Hybridoma",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Mary Ann Liebert",
+            "452$x": "1554-0014",
+            "452$y": null,
+            "452$0": "087702193",
+            "530$a": "Hybridoma",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.liebertonline.com/loi/hyb",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1557-8348",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005629371604672",
+                    "ppn": null,
+                    "titre": "Hybridoma.",
+                    "titre_clef": "Hybridoma",
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53137477620004672",
+                            "collection_id": "61127923220004672",
+                            "collection_name": "Mary Ann Liebert Publishers Journals"
+                        }
+                    ],
+                    "MATCHING_SCORE": 50,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02012cls0 2200445   450",
+            "001": "116267224",
+            "010$a": null,
+            "011$a": "1651-2065",
+            "100$a": "20070706a19989999u  y0frey50      ba",
+            "200$a": "Scandinavian journal of urology and nephrology",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Taylor & Francis Ltd",
+            "452$x": "0036-5599",
+            "452$y": null,
+            "452$0": "038791056",
+            "530$a": "Scandinavian journal of urology and nephrology",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://informahealthcare.com/loi/uro",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1651-2065",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005633541904672",
+                    "ppn": null,
+                    "titre": "Scandinavian journal of urology and nephrology.",
+                    "titre_clef": "Scandinavian journal of urology and nephrology",
+                    "date_pub": "1967",
+                    "portfolios": [
+                        {
+                            "pid": "53138716670004672",
+                            "collection_id": "61127922080004672",
+                            "collection_name": "Taylor & Francis Journals Complete"
+                        }
+                    ],
+                    "MATCHING_SCORE": 30,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": false,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02245cls0 2200505   450",
+            "001": "117377546",
+            "010$a": null,
+            "011$a": "1545-2069",
+            "100$a": "20070910a20039999u  y0frey50      ba",
+            "200$a": "Annual review of ecology, evolution, and systematics",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Annual Reviews;Annual Reviews",
+            "452$x": "1543-592X",
+            "452$y": null,
+            "452$0": "075874016",
+            "530$a": "Annual review of ecology, evolution, and systematics",
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.annualreviews.org/loi/ecolsys",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "1545-2069",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005619729304672",
+                    "ppn": null,
+                    "titre": "Annual review of ecology, evolution, and systematics.",
+                    "titre_clef": "Annual review of ecology, evolution, and systematics",
+                    "date_pub": "2003",
+                    "portfolios": [
+                        {
+                            "pid": "53134277420004672",
+                            "collection_id": "61127926910004672",
+                            "collection_name": "Annual Reviews"
+                        },
+                        {
+                            "pid": "53162588620004672",
+                            "collection_id": "61162519690004672",
+                            "collection_name": "Jstor - Arts & Sciences I"
+                        }
+                    ],
+                    "MATCHING_SCORE": 50,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "02644cls0 2200685   450",
+            "001": "122245296",
+            "010$a": null,
+            "011$a": "2104-3841",
+            "100$a": "20080314a20089999u  y0frey50      ba",
+            "200$a": "Santé publique",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "SFSP",
+            "452$x": "0995-3914",
+            "452$y": null,
+            "452$0": "039873099",
+            "530$a": "Santé publique",
+            "856$u": "http://www.sfsp.fr/santepublique/accueil.php;https://www.cairn.info/revue-sante-publique.htm;http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/revue-sante-publique.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "2104-3841",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005613407104672",
+                    "ppn": null,
+                    "titre": "Santé publique :",
+                    "titre_clef": null,
+                    "date_pub": "1988",
+                    "portfolios": [
+                        {
+                            "pid": "53132489210004672",
+                            "collection_id": "61127921750004672",
+                            "collection_name": "CAIRN revues"
+                        },
+                        {
+                            "pid": "53162062320004672",
+                            "collection_id": "61161736570004672",
+                            "collection_name": "BACON - Mir@bel - GLOBAL_LIBRESACCES"
+                        },
+                        {
+                            "pid": "53132242610004672",
+                            "collection_id": "61127939170004672",
+                            "collection_name": "Free Medical Journals"
+                        },
+                        {
+                            "pid": "53171486810004672",
+                            "collection_id": "61168693080004672",
+                            "collection_name": "CAIRN revues (Couperin)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 30,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": false,
+                    "MATCH_PPN": null
+                }
+            ],
+            "DOC_TYPE": "ls"
+        },
+        {
+            "000": "04792clm0 2200709   450",
+            "001": "12306838X",
+            "010$a": "978-0-387-28801-7",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Micro-Organisms in Foods 6",
+            "200$e": "Microbial Ecology of Food Commodities",
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Springer US;Springer e-books",
+            "452$x": null,
+            "452$y": "9780306486753",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-0-306-48675-3",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-0-387-28801-7",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005615861604672",
+                    "ppn": "(PPN)12306838X",
+                    "titre": "Microorganisms in Foods 6",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53133133040004672",
+                            "collection_id": "61127920370004672",
+                            "collection_name": "Springer Chemistry and Materials Science eBooks 2005 English/International"
+                        },
+                        {
+                            "pid": "53135448970004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "03725clm0 2200553   450",
+            "001": "123068398",
+            "010$a": "978-0-306-48682-1",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Analytical Dynamics",
+            "200$e": "Theory and Applications",
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Springer US;Springer e-books",
+            "452$x": null,
+            "452$y": "9780306486814",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-0-306-48681-4",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-0-306-48682-1",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005616300104672",
+                    "ppn": "(PPN)123068398",
+                    "titre": "Analytical Dynamics",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53136583700004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        },
+                        {
+                            "pid": "53133302260004672",
+                            "collection_id": "61127920100004672",
+                            "collection_name": "Springer Engineering eBooks 2005 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "03804clm0 2200565   450",
+            "001": "123068487",
+            "010$a": "978-0-387-26270-3",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Brain Control of Wakefulness and Sleep",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9780306487149",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-0-306-48714-9",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-0-387-26270-3",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005615041204672",
+                    "ppn": "(PPN)123068487",
+                    "titre": "Brain Control of Wakefulness and Sleep",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53132824210004672",
+                            "collection_id": "61127920670004672",
+                            "collection_name": "Springer Biomedical and Life Sciences eBooks 2005 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04864clm0 2200841   450",
+            "001": "123068517",
+            "010$a": "978-0-387-25095-3",
+            "011$a": null,
+            "100$a": "20080409d2005    k  y0frey50      ba",
+            "200$a": "Fundamentals In Nuclear Physics",
+            "200$e": "From Nuclear Structure to Cosmology",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "0-387-01672-4",
+            "452$0": "091435455",
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-0-387-01672-6",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-0-387-25095-3",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005622750304672",
+                    "ppn": "(PPN)123068517",
+                    "titre": "Fundamentals in Nuclear Physics",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53135282750004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        },
+                        {
+                            "pid": "53139305760004672",
+                            "collection_id": "61139240030004672",
+                            "collection_name": "Springer Physics and Astronomy eBooks 2005 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04620clm0 2200637   450",
+            "001": "123068525",
+            "010$a": "978-0-387-25112-7",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Mathematica® for Theoretical Physics",
+            "200$e": "Classical Mechanics and Nonlinear Dynamics",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9780387500768;9780387016740;9781489993236",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-0-387-01674-0",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-0-387-25112-7",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005634260704672",
+                    "ppn": "(PPN)123068525",
+                    "titre": "Mathematica for theoretical physics :",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53139309420004672",
+                            "collection_id": "61139240030004672",
+                            "collection_name": "Springer Physics and Astronomy eBooks 2005 English/International"
+                        },
+                        {
+                            "pid": "53139367950004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 40,
+                    "MATCH_TITRE": false,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04598clm0 2200889   450",
+            "001": "123068894",
+            "010$a": "978-0-387-27615-1",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Average-Cost Control of Stochastic Manufacturing Systems",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Springer New York;Springer e-books",
+            "452$x": null,
+            "452$y": "9780387219479",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-0-387-21947-9",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-0-387-27615-1",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005626701804672",
+                    "ppn": "(PPN)123068894",
+                    "titre": "Average-cost control of stochastic manufacturing systems",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53136624110004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        },
+                        {
+                            "pid": "53139095740004672",
+                            "collection_id": "61139099100004672",
+                            "collection_name": "Springer Mathematics and Statistics eBooks 2005 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "05069clm0 2200745   450",
+            "001": "123068916",
+            "010$a": "978-0-387-27130-9",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Essays in Constructive Mathematics",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9780387219783",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-0-387-21978-3",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-0-387-27130-9",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005622521704672",
+                    "ppn": "(PPN)123068916",
+                    "titre": "Essays in Constructive Mathematics",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53135196490004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        },
+                        {
+                            "pid": "53139095260004672",
+                            "collection_id": "61139099100004672",
+                            "collection_name": "Springer Mathematics and Statistics eBooks 2005 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "05564clm0 2200757   450",
+            "001": "123076617",
+            "010$a": "978-1-402-03466-4;978-1-4020-3466-4",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Methods to Study Litter Decomposition",
+            "200$e": "A Practical Guide",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9789048102716;9781402065682;9781402033483",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-1-4020-3348-3",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-402-03466-4",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005615050904672",
+                    "ppn": "(PPN)123076617",
+                    "titre": "Methods to Study Litter Decomposition",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53132825750004672",
+                            "collection_id": "61127920670004672",
+                            "collection_name": "Springer Biomedical and Life Sciences eBooks 2005 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "06494clm0 2200817   450",
+            "001": "123076668",
+            "010$a": "978-1-402-04038-2;978-1-4020-4038-2",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "The Outer Planets and their Moons",
+            "200$e": "Comparative Studies of the Outer Planets prior to the Exploration of the Saturn System by Cassini-Huygens",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781402033629",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-1-4020-3362-9",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-402-04038-2",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005625323104672",
+                    "ppn": "(PPN)123076668",
+                    "titre": "The Outer Planets and their Moons",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53139307620004672",
+                            "collection_id": "61139240030004672",
+                            "collection_name": "Springer Physics and Astronomy eBooks 2005 English/International"
+                        },
+                        {
+                            "pid": "53136116370004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "07430clm0 2200913   450",
+            "001": "12307780X",
+            "010$a": "978-1-402-03748-1;978-1-4020-3748-1",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Neutrinos and explosive events in the universe",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781402037467",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-1-4020-3746-7",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-402-03748-1",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005623287304672",
+                    "ppn": "(PPN)12307780X",
+                    "titre": "Neutrinos and Explosive Events in the Universe",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53135486390004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        },
+                        {
+                            "pid": "53139304980004672",
+                            "collection_id": "61139240030004672",
+                            "collection_name": "Springer Physics and Astronomy eBooks 2005 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "05622clm0 2200709   450",
+            "001": "123077885",
+            "010$a": "978-1-402-03778-8",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Participation in Fisheries Governance",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Springer Netherlands;Springer e-books",
+            "452$x": null,
+            "452$y": "9781402037771",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-1-4020-3777-1",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-402-03778-8",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005615041304672",
+                    "ppn": "(PPN)123077885",
+                    "titre": "Participation in Fisheries Governance",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53132825590004672",
+                            "collection_id": "61127920670004672",
+                            "collection_name": "Springer Biomedical and Life Sciences eBooks 2005 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04631clm0 2200673   450",
+            "001": "123078407",
+            "010$a": "978-1-402-08063-0;978-1-4020-8063-0",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Direct transistor-level layout for digital blocks",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9780387522272;9781475779516;9781402076657",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.springerlink.com/openurl.asp?genre=book&isbn=978-1-4020-7665-7",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-402-08063-0",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005616298404672",
+                    "ppn": "(PPN)123078407",
+                    "titre": "Direct Transistor-Level Layout for Digital Blocks",
+                    "titre_clef": null,
+                    "date_pub": "2004",
+                    "portfolios": [
+                        {
+                            "pid": "53136891810004672",
+                            "collection_id": "61127925770004672",
+                            "collection_name": "Springer Nature - Licence nationale (livres électroniques)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 40,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": false,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "06567clm0 2200937   450",
+            "001": "123091616",
+            "010$a": "978-3-540-30560-6",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Switching and Learning in Feedback Systems",
+            "200$e": "European Summer School on Multi-Agent Control, Maynooth, Ireland, September 8-10, 2003, Revised Lectures and Selected Papers",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9783540244578",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1007/b105497",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-3-540-30560-6",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005613603104672",
+                    "ppn": "(PPN)123091616",
+                    "titre": "Switching and Learning in Feedback Systems",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53132368020004672",
+                            "collection_id": "61127939740004672",
+                            "collection_name": "SpringerLink Lecture Notes in Computer Science 2005"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "07205clm0 2200865   450",
+            "001": "123091624",
+            "010$a": "978-3-540-31807-1",
+            "011$a": null,
+            "100$a": "20080409d2005    u  y0frey50      ba",
+            "200$a": "Computer Music Modeling and Retrieval",
+            "200$e": "Second International Symposium, CMMR 2004, Esbjerg, Denmark, May 26-29, 2004, Revised Papers",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9783540244585",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1007/b105507",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-3-540-31807-1",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005613603204672",
+                    "ppn": "(PPN)123091624",
+                    "titre": "Computer Music Modeling and Retrieval",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53132367040004672",
+                            "collection_id": "61127939740004672",
+                            "collection_name": "SpringerLink Lecture Notes in Computer Science 2005"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "05593clm0 2200577   450",
+            "001": "150971311",
+            "010$a": null,
+            "011$a": null,
+            "100$a": "20110324e20122005|||y0frey50      ba",
+            "200$a": "Les minorités ethniques dans l'Union européenne",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "La Découverte",
+            "452$x": null,
+            "452$y": "978-2-70714-451-5",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/les-minorites-ethniques-dans-l-union-europeenne--9782707144515.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-70714-451-5",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005620192704672",
+                    "ppn": "(PPN)150971311",
+                    "titre": "Les minorités ethniques dans l'Union européenne :",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53151692420004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        },
+                        {
+                            "pid": "53144210970004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "03846clm0 2200565   450",
+            "001": "150971400",
+            "010$a": "978-2-70-716227-4",
+            "011$a": null,
+            "100$a": "20110324e20122007k  y0frey50      ba",
+            "200$a": "Le quartier",
+            "200$e": "enjeux scientifiques, actions politiques et pratiques sociales",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "978-2-7071-5071-4",
+            "452$0": "112884628",
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/le-quartier--9782707150714.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-70-716227-4",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005665151704672",
+                    "ppn": "(PPN)150971400",
+                    "titre": "Le quartier",
+                    "titre_clef": null,
+                    "date_pub": "2007",
+                    "portfolios": [
+                        {
+                            "pid": "53151693660004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        },
+                        {
+                            "pid": "53144277890004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "08096clm0 2200889   450",
+            "001": "150971850",
+            "010$a": null,
+            "011$a": null,
+            "100$a": "20110324e20122007|||y0frey50      ba",
+            "200$a": "Le débat public",
+            "200$e": "une expérience française de démocratie participative",
+            "200$h": null,
+            "200$i": null,
+            "210$c": "La Découverte",
+            "452$x": null,
+            "452$y": "978-2-70715-341-8",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/le-debat-public-une-experience-francaise--9782707153418.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-70715-341-8",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005665155704672",
+                    "ppn": "(PPN)150971850",
+                    "titre": "Le débat public : une expérience française de démocratie participative",
+                    "titre_clef": null,
+                    "date_pub": "2007",
+                    "portfolios": [
+                        {
+                            "pid": "53144277990004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        },
+                        {
+                            "pid": "53151693740004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        }
+                    ],
+                    "MATCHING_SCORE": 40,
+                    "MATCH_TITRE": false,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04916clm0 2200601   450",
+            "001": "150971877",
+            "010$a": null,
+            "011$a": null,
+            "100$a": "20110324e20122008|||y0frey50      ba",
+            "200$a": "La fin des cultures nationales ?",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "La Découverte",
+            "452$x": null,
+            "452$y": "978-2-70715-433-0",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/la-fin-des-cultures-nationales--9782707154330.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-70715-433-0",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005620069904672",
+                    "ppn": "(PPN)150971877",
+                    "titre": "La fin des cultures nationales ?",
+                    "titre_clef": null,
+                    "date_pub": "2008",
+                    "portfolios": [
+                        {
+                            "pid": "53144204780004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        },
+                        {
+                            "pid": "53151685630004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "05713clm0 2200709   450",
+            "001": "150972601",
+            "010$a": null,
+            "011$a": null,
+            "100$a": "20110324e20122000|||y0frey50      ba",
+            "200$a": "Quel modèle productif ?",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "La Découverte",
+            "452$x": null,
+            "452$y": "978-2-70713-208-6",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/quel-modele-productif--9782707132086.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-70713-208-6",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005620331704672",
+                    "ppn": "(PPN)150972601",
+                    "titre": "Quel modèle productif ? :",
+                    "titre_clef": null,
+                    "date_pub": "2000",
+                    "portfolios": [
+                        {
+                            "pid": "53144201200004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        },
+                        {
+                            "pid": "53151588230004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "06691clm0 2200781   450",
+            "001": "150973101",
+            "010$a": "978-2-70716-190-1",
+            "011$a": null,
+            "100$a": "20110324e20122007|||y0frey50      ba",
+            "200$a": "L'archéologie préventive dans le monde",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "La Découverte",
+            "452$x": null,
+            "452$y": "978-2-7071-5212-1",
+            "452$0": "115223568",
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/l-archeologie-preventive-dans-le-monde--9782707152121.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-70716-190-1",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005716106504672",
+                    "ppn": "(PPN)150973101",
+                    "titre": "L'archéologie préventive dans le monde",
+                    "titre_clef": null,
+                    "date_pub": "2007",
+                    "portfolios": [
+                        {
+                            "pid": "53151688270004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04233clm0 2200541   450",
+            "001": "150973586",
+            "010$a": "978-2-70-718142-8",
+            "011$a": null,
+            "100$a": "20110324e20102001k  y0frey50      ba",
+            "200$a": "L'ethnométhodologie",
+            "200$e": "une sociologie radicale",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "2-7071-3373-6",
+            "452$0": "054415942",
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/l-ethnomethodologie--9782707133731.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-70-718142-8",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005661477904672",
+                    "ppn": "(PPN)150973586",
+                    "titre": "L'ethnométhodologie :",
+                    "titre_clef": null,
+                    "date_pub": "2001",
+                    "portfolios": [
+                        {
+                            "pid": "53144239060004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        },
+                        {
+                            "pid": "53151685770004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04705clm0 2200589   450",
+            "001": "150974329",
+            "010$a": "978-2-34803-695-8",
+            "011$a": null,
+            "100$a": "20110324e20122004k  y0frey50      ba",
+            "200$a": "À quoi sert la sociologie ?",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "La Découverte",
+            "452$x": null,
+            "452$y": "2-7071-4421-5",
+            "452$0": "080275842",
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/a-quoi-sert-la-sociologie--9782707144218.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-34803-695-8",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005620307004672",
+                    "ppn": "(PPN)150974329",
+                    "titre": "À quoi sert la sociologie ? /",
+                    "titre_clef": null,
+                    "date_pub": "2004",
+                    "portfolios": [
+                        {
+                            "pid": "53144257210004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        },
+                        {
+                            "pid": "53151682680004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "05409clm0 2200685   450",
+            "001": "150974515",
+            "010$a": null,
+            "011$a": null,
+            "100$a": "20110324e20122008|||y0frey50      ba",
+            "200$a": "RMI, l'état des lieux",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "La Découverte",
+            "452$x": null,
+            "452$y": "978-2-70715-384-5",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/rmi-l-etat-des-lieux--9782707153845.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-70715-384-5",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005620329104672",
+                    "ppn": "(PPN)150974515",
+                    "titre": "RMI, l'état des lieux",
+                    "titre_clef": null,
+                    "date_pub": "2008",
+                    "portfolios": [
+                        {
+                            "pid": "53151673850004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        },
+                        {
+                            "pid": "53144219900004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "06228clm0 2200757   450",
+            "001": "150975465",
+            "010$a": "978-2-7071-5559-7",
+            "011$a": null,
+            "100$a": "20110324h20122004k  y0frey50      ba",
+            "200$a": "Vrai et faux dans la Grande Guerre",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "La Découverte",
+            "452$x": null,
+            "452$y": "978-2-7071-4211-5",
+            "452$0": "077281713",
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/vrai-et-faux-dans-la-grande-guerre--9782707142115.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-7071-5559-7",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005620294904672",
+                    "ppn": "(PPN)150975465",
+                    "titre": "Vrai et faux dans la Grande Guerre",
+                    "titre_clef": null,
+                    "date_pub": "2004",
+                    "portfolios": [
+                        {
+                            "pid": "53144250080004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        },
+                        {
+                            "pid": "53151675930004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        }
+                    ],
+                    "MATCHING_SCORE": 40,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": false,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04288clm0 2200625   450",
+            "001": "151452253",
+            "010$a": null,
+            "011$a": null,
+            "100$a": "20110411e20112005|||y0frey50      ba",
+            "200$a": "Citoyens et Délateurs",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "Autrement",
+            "452$x": null,
+            "452$y": "978-2-74670-728-3",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.cairn.info/citoyens-et-delateurs--9782746707283.htm",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-2-74670-728-3",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005665014304672",
+                    "ppn": "(PPN)151452253",
+                    "titre": "Citoyens et délateurs :",
+                    "titre_clef": null,
+                    "date_pub": "2005",
+                    "portfolios": [
+                        {
+                            "pid": "53144254190004672",
+                            "collection_id": "61144083690004672",
+                            "collection_name": "CAIRN Ouvrages Economie Sociologie Politique recherche"
+                        },
+                        {
+                            "pid": "53151680120004672",
+                            "collection_id": "61151538410004672",
+                            "collection_name": "CAIRN Ouvrages - Général"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "01861clm0 2200409   450",
+            "001": "156514737",
+            "010$a": "0-07-150973-9;978-0-07-150973-2",
+            "011$a": null,
+            "100$a": "20111122d2007    k  y0frey50      ba",
+            "200$a": "Nano/microscale heat transfer",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": "McGraw-Hill",
+            "452$x": null,
+            "452$y": null,
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780071509732",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "0-07-150973-9",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005628570504672",
+                    "ppn": "(PPN)156514737",
+                    "titre": "Nano/microscale heat transfer",
+                    "titre_clef": null,
+                    "date_pub": "2007",
+                    "portfolios": [
+                        {
+                            "pid": "53137233340004672",
+                            "collection_id": "61127925290004672",
+                            "collection_name": "Dawsonera (livres électroniques)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "03929clm0 2200577   450",
+            "001": "157152405",
+            "010$a": "0-08-091510-8;978-0-08-091510-4",
+            "011$a": null,
+            "100$a": "20111215d2009    k  y0frey50      ba",
+            "200$a": "Properties of polymers",
+            "200$e": "their correlation with chemical structure, their numerical estimation and prediction from additive group contributions",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "978-0-08-054819-7",
+            "452$0": "135364280",
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9780080915104",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "0-08-091510-8",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005640679504672",
+                    "ppn": "(PPN)170600467",
+                    "titre": "Properties of polymers",
+                    "titre_clef": null,
+                    "date_pub": "2009",
+                    "portfolios": [
+                        {
+                            "pid": "53140455430004672",
+                            "collection_id": "61140415880004672",
+                            "collection_name": "ScholarVox - Sciences (Cyberlibris)"
+                        }
+                    ],
+                    "MATCHING_SCORE": 40,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": false
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "06165nlm0 2200577   450",
+            "001": "228322480",
+            "010$a": "978-1-137-53744-7",
+            "011$a": null,
+            "100$a": "20180628d2016    u  |0frey50      ba",
+            "200$a": "Leading Research and Evaluation in Interprofessional Education and Collaborative Practice",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781137537423",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1057/978-1-137-53744-7",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-137-53744-7",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005632781204672",
+                    "ppn": "(PPN)228322480",
+                    "titre": "Leading Research and Evaluation in Interprofessional Education and Collaborative Practice",
+                    "titre_clef": null,
+                    "date_pub": "2016",
+                    "portfolios": [
+                        {
+                            "pid": "53138580750004672",
+                            "collection_id": "61127922500004672",
+                            "collection_name": "Springer Business and Management eBooks 2016 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "03603clm0 2200637   450",
+            "001": "228322537",
+            "010$a": "978-1-137-39915-1",
+            "011$a": null,
+            "100$a": "20180628d2016    u  |0frey50      ba",
+            "200$a": "Masculinities and the Adult Male Prison Experience",
+            "200$e": null,
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781137399144",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1057/978-1-137-39915-1",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-137-39915-1",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005613484904672",
+                    "ppn": "(PPN)228322537",
+                    "titre": "Masculinities and the Adult Male Prison Experience",
+                    "titre_clef": null,
+                    "date_pub": "2016",
+                    "portfolios": [
+                        {
+                            "pid": "53132323310004672",
+                            "collection_id": "61127939800004672",
+                            "collection_name": "Springer Law and Criminology eBooks 2016 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04055clm0 2200577   450",
+            "001": "228322545",
+            "010$a": "978-1-137-54668-5",
+            "011$a": null,
+            "100$a": "20180628d2016    u  |0frey50      ba",
+            "200$a": "A Visual Approach for Green Criminology",
+            "200$e": "Exploring the Social Perception of Environmental Harm",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781137546678",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1057/978-1-137-54668-5",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-137-54668-5",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005613492404672",
+                    "ppn": "(PPN)228322545",
+                    "titre": "A Visual Approach for Green Criminology",
+                    "titre_clef": null,
+                    "date_pub": "2016",
+                    "portfolios": [
+                        {
+                            "pid": "53132323110004672",
+                            "collection_id": "61127939800004672",
+                            "collection_name": "Springer Law and Criminology eBooks 2016 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "03255clm0 2200577   450",
+            "001": "228322596",
+            "010$a": "978-1-137-57810-5",
+            "011$a": null,
+            "100$a": "20180628d2016    u  |0frey50      ba",
+            "200$a": "Business Strategies and Competitiveness in Times of Crisis",
+            "200$e": "A Survey on Italian SMEs",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781137578099",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1057/978-1-137-57810-5",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-137-57810-5",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005632763004672",
+                    "ppn": "(PPN)228322596",
+                    "titre": "Business Strategies and Competitiveness in Times of Crisis",
+                    "titre_clef": null,
+                    "date_pub": "2016",
+                    "portfolios": [
+                        {
+                            "pid": "53138581430004672",
+                            "collection_id": "61127922500004672",
+                            "collection_name": "Springer Business and Management eBooks 2016 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "03962clm0 2200553   450",
+            "001": "22832260X",
+            "010$a": "978-1-137-58123-5",
+            "011$a": null,
+            "100$a": "20180628d2016    u  |0frey50      ba",
+            "200$a": "Intangible Organizational Resources",
+            "200$e": "Analysis of Resource-Based Theory and the Measurement of Library Effectiveness",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781137581228",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1057/978-1-137-58123-5",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-137-58123-5",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005632765704672",
+                    "ppn": "(PPN)22832260X",
+                    "titre": "Intangible Organizational Resources",
+                    "titre_clef": null,
+                    "date_pub": "2016",
+                    "portfolios": [
+                        {
+                            "pid": "53138582130004672",
+                            "collection_id": "61127922500004672",
+                            "collection_name": "Springer Business and Management eBooks 2016 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "03676clm0 2200529   450",
+            "001": "228322626",
+            "010$a": "978-1-137-57309-4",
+            "011$a": null,
+            "100$a": "20180628d2016    u  |0frey50      ba",
+            "200$a": "Professionalizing Public Relations",
+            "200$e": "History, Gender and Education",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781137573087",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1057/978-1-137-57309-4",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-137-57309-4",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005632765804672",
+                    "ppn": "(PPN)228322626",
+                    "titre": "Professionalizing Public Relations",
+                    "titre_clef": null,
+                    "date_pub": "2016",
+                    "portfolios": [
+                        {
+                            "pid": "53138582110004672",
+                            "collection_id": "61127922500004672",
+                            "collection_name": "Springer Business and Management eBooks 2016 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "02796clm0 2200517   450",
+            "001": "228322634",
+            "010$a": "978-1-137-57306-3",
+            "011$a": null,
+            "100$a": "20180628d2016    u  |0frey50      ba",
+            "200$a": "Human Resource Management in International NGOs",
+            "200$e": "Exploring Strategy, Practice and Policy",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781137573056",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1057/978-1-137-57306-3",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-137-57306-3",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005632773804672",
+                    "ppn": "(PPN)228322634",
+                    "titre": "Human Resource Management in International NGOs",
+                    "titre_clef": null,
+                    "date_pub": "2016",
+                    "portfolios": [
+                        {
+                            "pid": "53138581650004672",
+                            "collection_id": "61127922500004672",
+                            "collection_name": "Springer Business and Management eBooks 2016 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        },
+        {
+            "000": "04262clm0 2200481   450",
+            "001": "228322642",
+            "010$a": "978-1-137-57088-8",
+            "011$a": null,
+            "100$a": "20180628d2016    u  |0frey50      ba",
+            "200$a": "Fake Meds Online",
+            "200$e": "The Internet and the Transnational Market in Illicit Pharmaceuticals",
+            "200$h": null,
+            "200$i": null,
+            "210$c": null,
+            "452$x": null,
+            "452$y": "9781137570871",
+            "452$0": null,
+            "530$a": null,
+            "856$u": "http://docelec.u-bordeaux.fr/login?url=http://dx.doi.org/10.1057/978-1-137-57088-8",
+            "ERREUR": false,
+            "ERREUR_MSG": null,
+            "ID_MATCH": "978-1-137-57088-8",
+            "ID_NB_MATCH": 1,
+            "MATCHING_INFOS": [
+                {
+                    "mmsid": "991005613484204672",
+                    "ppn": "(PPN)228322642",
+                    "titre": "Fake Meds Online",
+                    "titre_clef": null,
+                    "date_pub": "2016",
+                    "portfolios": [
+                        {
+                            "pid": "53132323460004672",
+                            "collection_id": "61127939800004672",
+                            "collection_name": "Springer Law and Criminology eBooks 2016 English/International"
+                        }
+                    ],
+                    "MATCHING_SCORE": 60,
+                    "MATCH_TITRE": true,
+                    "MATCH_DATE_PUB": true,
+                    "MATCH_PPN": true
+                }
+            ],
+            "DOC_TYPE": "lm"
+        }
+    ]
+}
